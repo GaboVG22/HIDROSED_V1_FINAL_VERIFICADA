@@ -1,0 +1,5 @@
+HIDROSED_V1_FINAL_VERIFICADA
+Fecha: 2026-07-11
+Base cuencas: HidroSed Foja Cero v3 tramo útil / v3.1 Streamlit Fix.
+Base eje y secciones: HidroSed Eje Cauce y Secciones v15 geometría ajustada a extremos.
+Verificaciones: py_compile, importación modular, presencia de conectividad HEC-RAS LOB/Channel/ROB.
